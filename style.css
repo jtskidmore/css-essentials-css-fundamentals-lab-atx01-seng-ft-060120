@@ -20,6 +20,20 @@ a {
   background-color: gray;
 }
 
+figcaption {
+  font-size: 12px;
+}
 
+#featured-property p {
+  width: 800px;
+}
+
+#details {
+  display: block;
+}
+
+#details div {
+  float: left;
+}
 
 
